@@ -104,7 +104,7 @@ function Update()
 		NatureText:SetText(GetNature());
 		NatureText:SetTextColor(0, 1, 0);
 		FrostText:SetText(GetFrost());
-		FrostText:SetTextColor(0, 0, 1);
+		FrostText:SetTextColor(0.3, 0.3, 1);
 		ShadowText:SetText(GetShadow());
 		ShadowText:SetTextColor(0.5, 0, 1);
 		ArcaneText:SetText(GetArcane());
